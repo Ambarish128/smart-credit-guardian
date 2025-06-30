@@ -59,7 +59,7 @@ The `Behaviour_Group` feature (from clustering) consistently ranked among the to
 ![XGBoost](https://github.com/Ambarish128/smart-credit-guardian/blob/main/Feature_Importance_xgb.png)
 
 ### ROC Curve Comparison
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](https://github.com/Ambarish128/smart-credit-guardian/blob/main/ROC_Curve.png)
 
 ---
 
